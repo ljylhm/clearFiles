@@ -113,7 +113,7 @@ $ npm i ljyclear --save
    // 忽略文件夹名字中含有test2的文件夹
    clear(["D:\\testClear\\test1", "D:\\testClear\\test2", "D:\\testClear\\test3"], ["test2"])
 ```
-<b>执行清除函数的截图</b>
+<p><b>执行清除函数的截图</b></p>
 <img src="http://file.40017.cn/huochepiao/activity/MyPic/img/clearModules.png?181212155333" >
 
 
