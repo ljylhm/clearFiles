@@ -1,0 +1,22 @@
+{
+  "name": "ljyclear",
+  "version": "0.0.1",
+  "description": "clear node_modules",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "node main.js"
+  },
+  "keywords": [
+    "clear",
+    "batch",
+    "node_modules"
+  ],
+  "author": "ljy48594",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {}
+}
