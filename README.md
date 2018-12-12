@@ -19,9 +19,9 @@ $ npm i ljyclear --save
 
 <b>仓库地址 :</b>
 
-<b>https://github.com/ljylhm/ljyTools.git</b>
+<b>https://github.com/ljylhm/clearFiles.git</b>
 
-<p style="font-weight:600">git@github.com:ljylhm/ljyTools.git</p>
+<p style="font-weight:600">git@github.com:ljylhm/clearFiles.git</p>
 
 ### 使用说明
 <p style="border-bottom: 1px solid #eaecef"></p>
